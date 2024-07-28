@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css'
 
-import Header from './sections/Header';
-import Contact from './sections/Contact';
-import Resume from './sections/Resume';
-import Interests from './sections/Interests';
-import AcademicMain from './sections/AcademicMain';
+import Header from './components/Header';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
+import Interests from './components/Interests';
+import AcademicMain from './components/AcademicMain';
 
 function App() {
 

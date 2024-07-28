@@ -1,0 +1,26 @@
+[
+    {
+        "imgPath": "./../assets/contact/email.png",
+        "alt": "email",
+        "href": "mailto:abc@gmail.com",
+        "text": "abc@gmail.com"
+    },
+    {
+        "imgPath": "./../assets/contact/mobile.png",
+        "alt": "mobile",
+        "href": "#",
+        "text": "--- --- ---"
+    },
+    {
+        "imgPath": "./../assets/contact/place.png",
+        "alt": "place",
+        "href": "https://www.openstreetmap.org/#map=14/-12.0309/-77.0281",
+        "text": "Rímac, Lima, Perú"
+    },
+    {
+        "imgPath": "./../assets/contact/linkedin.png",
+        "alt": "linkedin",
+        "href": "https://pe.linkedin.com/in/dbarretol",
+        "text": "dbarretol"
+    }
+]
